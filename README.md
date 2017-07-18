@@ -12,9 +12,10 @@ forked from github.com/roozbeh360/Gregorian-Jalali-Date-Convertor
 > echo g2j(2017,7,18);
 
 '1396/4/27'
-
-
-
+>
+>
+>
+>
 > echo j2g(1396,4,27);
 
 '2017/7/18'
